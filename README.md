@@ -1,2 +1,2 @@
 # OJ
-to recoder the solutiones to OJ's problems
+to recoder the solutiones about problems on OJ
